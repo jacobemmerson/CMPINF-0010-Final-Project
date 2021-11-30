@@ -23,3 +23,4 @@ Arjun Rocks
 
 
 ## Abstract
+We found that through sorting through data about amount of parks, fire indcidents, and crime rate / police arrests, we have determined that Lower Lawrinceville is the best neighborhood to live in. We weighted the the amount of parks the highest, fire incidents the second highest, and crime rate the third highest. 
